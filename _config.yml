@@ -1,0 +1,3 @@
+baseurl: /ltdbgs
+exclude: ['README.md']
+permalink: pretty
